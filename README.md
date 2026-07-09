@@ -28,8 +28,14 @@ DompetKu adalah aplikasi pencatatan keuangan pribadi modern yang dibangun menggu
 **Manajemen Anggaran (Budget)**
 ![Manajemen Budget](docs/screenshots/budget.png)
 
+**Tambah Budget**
+![Tambah Budget](docs/screenshots/add-budget.png)
+
 **Tambah Transaksi**
 ![Tambah Transaksi](docs/screenshots/add-transaction.png)
+
+**Ekspor Laporan PDF**
+![Laporan PDF](docs/screenshots/pdf-export.png)
 
 **Profil Pengguna**
 ![Profil Saya](docs/screenshots/profile.png)
