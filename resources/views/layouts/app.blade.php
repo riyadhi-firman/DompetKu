@@ -147,6 +147,17 @@
                 <div class="fade-in">
                     @yield('content')
                 </div>
+                
+                <!-- Footer Informasi Mahasiswa -->
+                <footer style="margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--border-color); text-align: center; color: var(--text-muted); font-size: 0.9rem; padding-bottom: 1rem;">
+                    <p style="margin: 0 0 0.5rem 0; font-weight: 600; color: var(--text-main);">DompetKu - Aplikasi Keuangan Pribadi</p>
+                    <p style="margin: 0; line-height: 1.6;">
+                        Dikembangkan oleh: <strong>Firman Riyadhi</strong><br>
+                        NIM: <strong>112522093</strong><br>
+                        Program Studi: <strong>S1 Teknik Informatika</strong><br>
+                        <strong>Universitas Banten Jaya</strong>
+                    </p>
+                </footer>
             </main>
         </div>
     @endguest

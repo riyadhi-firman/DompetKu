@@ -111,6 +111,14 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan DompetKu di lingkungan loka
 
 Aplikasi kini dapat diakses melalui browser Anda di `http://localhost:8000`.
 
+## 👨‍💻 Profil Pengembang
+
+Aplikasi ini dikembangkan oleh:
+- **Nama:** Firman Riyadhi
+- **NIM:** 112522093
+- **Program Studi:** S1 Teknik Informatika
+- **Institusi:** Universitas Banten Jaya
+
 ## 🛠️ Teknologi yang Digunakan
 - **Backend:** [Laravel](https://laravel.com)
 - **Frontend:** HTML5, Vanilla CSS, JS
