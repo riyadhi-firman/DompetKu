@@ -1,6 +1,22 @@
-# DompetKu 💸
+<div align="center">
+  <img src="docs/screenshots/dashboard.png" alt="DompetKu Logo" width="100%">
 
-DompetKu adalah aplikasi pencatatan keuangan pribadi modern yang dibangun menggunakan kerangka kerja **Laravel**. Aplikasi ini dirancang untuk membantu Anda memantau pemasukan dan pengeluaran, mengatur anggaran (budget) bulanan, serta mendapatkan laporan keuangan yang jelas dan mudah dipahami.
+  # 💸 DompetKu - Personal Finance Manager
+  
+  **Kelola Keuangan Jadi Lebih Mudah dan Menyenangkan!**
+  
+  [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+  [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](#)
+  
+  [Fitur Utama](#-fitur-utama) • [Instalasi](#-panduan-instalasi-development) • [Tangkapan Layar](#-tangkapan-layar-screenshots)
+</div>
+
+---
+
+**DompetKu** adalah aplikasi pencatatan keuangan pribadi modern yang dibangun menggunakan kerangka kerja **Laravel**. Aplikasi ini dirancang untuk membantu Anda memantau pemasukan dan pengeluaran, mengatur anggaran (budget) bulanan, serta mendapatkan laporan keuangan yang jelas dan mudah dipahami.
 
 ## 🌟 Fitur Utama
 
@@ -16,33 +32,40 @@ DompetKu adalah aplikasi pencatatan keuangan pribadi modern yang dibangun menggu
 
 ## 📸 Tangkapan Layar (Screenshots)
 
-**Halaman Otentikasi (Login & Register)**
-![Login](docs/screenshots/login.png)
-![Register](docs/screenshots/register.png)
-
-**Dashboard Utama**
-![Dashboard](docs/screenshots/dashboard.png)
-
-**Manajemen Kategori**
-![Daftar Kategori](docs/screenshots/categories.png)
-
-**Manajemen Anggaran (Budget)**
-![Manajemen Budget](docs/screenshots/budget.png)
-
-**Tambah Budget**
-![Tambah Budget](docs/screenshots/add-budget.png)
-
-**Manajemen Transaksi**
-![Daftar Transaksi](docs/screenshots/transactions.png)
-
-**Tambah Transaksi**
-![Tambah Transaksi](docs/screenshots/add-transaction.png)
-
-**Ekspor Laporan PDF**
-![Laporan PDF](docs/screenshots/pdf-export.png)
-
-**Profil Pengguna**
-![Profil Saya](docs/screenshots/profile.png)
+<table align="center">
+  <tr>
+    <td align="center"><b>Halaman Login</b></td>
+    <td align="center"><b>Dashboard Utama</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/login.png" width="100%"></td>
+    <td><img src="docs/screenshots/dashboard.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Manajemen Kategori</b></td>
+    <td align="center"><b>Manajemen Anggaran (Budget)</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/categories.png" width="100%"></td>
+    <td><img src="docs/screenshots/budget.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tambah Transaksi</b></td>
+    <td align="center"><b>Daftar Transaksi</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/add-transaction.png" width="100%"></td>
+    <td><img src="docs/screenshots/transactions.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Profil Pengguna</b></td>
+    <td align="center"><b>Ekspor Laporan PDF</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/profile.png" width="100%"></td>
+    <td><img src="docs/screenshots/pdf-export.png" width="100%"></td>
+  </tr>
+</table>
 
 ## 🚀 Panduan Instalasi (Development)
 
