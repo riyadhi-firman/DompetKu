@@ -149,14 +149,28 @@
                 </div>
                 
                 <!-- Footer Informasi Mahasiswa -->
-                <footer style="margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--border-color); text-align: center; color: var(--text-muted); font-size: 0.9rem; padding-bottom: 1rem;">
-                    <p style="margin: 0 0 0.5rem 0; font-weight: 600; color: var(--text-main);">DompetKu - Aplikasi Keuangan Pribadi</p>
-                    <p style="margin: 0; line-height: 1.6;">
-                        Dikembangkan oleh: <strong>Firman Riyadhi</strong><br>
-                        NIM: <strong>112522093</strong><br>
-                        Program Studi: <strong>S1 Teknik Informatika</strong><br>
-                        <strong>Universitas Banten Jaya</strong>
-                    </p>
+                <footer class="fade-in" style="margin-top: 3rem; background: var(--card-bg); border-radius: 16px; padding: 1.5rem 2rem; box-shadow: var(--shadow-sm); display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; border: 1px solid var(--border-color); margin-bottom: 1rem;">
+                    <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem;">
+                        <div style="background: var(--primary-color); color: white; width: 40px; height: 40px; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; box-shadow: 0 4px 10px rgba(99, 102, 241, 0.3);">
+                            <i class="fas fa-graduation-cap"></i>
+                        </div>
+                        <h4 style="margin: 0; color: var(--text-main); font-weight: 700; font-size: 1.1rem;">DompetKu Project</h4>
+                    </div>
+                    
+                    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; color: var(--text-muted); font-size: 0.95rem;">
+                        <div style="display: flex; align-items: center; gap: 0.5rem;">
+                            <i class="fas fa-user-graduate" style="color: var(--primary-color);"></i>
+                            <span><strong>Firman Riyadhi</strong> (112522093)</span>
+                        </div>
+                        <div style="display: flex; align-items: center; gap: 0.5rem;">
+                            <i class="fas fa-laptop-code" style="color: var(--primary-color);"></i>
+                            <span>S1 Teknik Informatika</span>
+                        </div>
+                        <div style="display: flex; align-items: center; gap: 0.5rem;">
+                            <i class="fas fa-university" style="color: var(--primary-color);"></i>
+                            <span>Universitas Banten Jaya</span>
+                        </div>
+                    </div>
                 </footer>
             </main>
         </div>
