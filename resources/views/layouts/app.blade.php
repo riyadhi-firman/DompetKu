@@ -73,7 +73,7 @@
             </aside>
 
             <!-- Main Content -->
-            <main class="main-content">
+            <main class="main-content" style="display: flex; flex-direction: column;">
                 <header class="top-header fade-in">
                     <div style="display: flex; align-items: center; gap: 1rem;">
                         <button class="mobile-toggle" id="mobileToggle">
@@ -144,12 +144,12 @@
                     @endforeach
                 @endif
 
-                <div class="fade-in">
+                <div class="fade-in" style="flex-grow: 1; padding-bottom: 3rem;">
                     @yield('content')
                 </div>
                 
                 <!-- Footer Informasi Mahasiswa -->
-                <footer class="fade-in" style="margin-top: 3rem; background: var(--card-bg); border-radius: 16px; padding: 1.5rem 2rem; box-shadow: var(--shadow-sm); display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; border: 1px solid var(--border-color); margin-bottom: 1rem;">
+                <footer class="fade-in" style="margin-top: auto; background: var(--card-bg); border-radius: 16px; padding: 1.5rem 2rem; box-shadow: var(--shadow-sm); display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; border: 1px solid var(--border-color); margin-bottom: 1rem;">
                     <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem;">
                         <div style="background: var(--primary-color); color: white; width: 40px; height: 40px; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; box-shadow: 0 4px 10px rgba(99, 102, 241, 0.3);">
                             <i class="fas fa-graduation-cap"></i>
