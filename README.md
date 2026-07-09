@@ -14,6 +14,21 @@ DompetKu adalah aplikasi pencatatan keuangan pribadi modern yang dibangun menggu
 - **👤 Profil Pengguna**: Halaman khusus untuk memperbarui nama, alamat email, dan kata sandi Anda.
 - **🌓 Mode Gelap/Terang**: Ubah tema antarmuka sesuai dengan kenyamanan mata Anda melalui satu sentuhan tombol.
 
+## 📸 Tangkapan Layar (Screenshots)
+
+**Dashboard Utama**
+![Dashboard](docs/screenshots/dashboard.png)
+
+**Manajemen Transaksi**
+![Daftar Transaksi](docs/screenshots/transactions.png)
+
+**Manajemen Kategori**
+![Daftar Kategori](docs/screenshots/categories.png)
+
+**Halaman Otentikasi (Login & Register)**
+![Login](docs/screenshots/login.png)
+![Register](docs/screenshots/register.png)
+
 ## 🚀 Panduan Instalasi (Development)
 
 Ikuti langkah-langkah di bawah ini untuk menjalankan DompetKu di lingkungan lokal Anda:
